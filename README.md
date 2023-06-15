@@ -6,13 +6,6 @@ This project aims to perform customer segmentation to group people with similar 
 
 The project is organized as follows:
 
-├── data/
-│   ├── credit card.csv
-├── src/
-│   ├── main.py
-└── README.md
-
-
 - The `data/` directory contains the dataset used for customer segmentation (`credit card.csv`).
 - The `src/` directory includes the source code files for data preprocessing, exploratory data analysis, and clustering algorithms and also the clustering results and other relevant graphs.
 - `README.md` is this file, providing an overview of the project and instructions on getting started.
@@ -23,7 +16,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/customer-segmentation.git
+   git clone https://github.com/your-username/customer-segmentation.git
 
 
 2. Place the dataset file (`credit card.csv`) inside the `data/` directory.
