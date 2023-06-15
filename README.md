@@ -7,10 +7,10 @@ This project aims to perform customer segmentation to group people with similar 
 The project is organized as follows:
 
 ├── data/
-│ ├── credit card.csv
-├── src and results/
-│ ├── Customer Segmentation.ipynb
-├── README.md
+│   ├── credit card.csv
+├── src/
+│   ├── main.py
+└── README.md
 
 
 - The `data/` directory contains the dataset used for customer segmentation (`credit card.csv`).
